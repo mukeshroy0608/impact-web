@@ -1,0 +1,19 @@
+.top-bar{
+    background-color:#00796a ;
+}
+header{
+    background-color: #008375;
+}
+#hero{
+    background-color: #008375;
+}
+#hero h2{
+    font-size: 50px;
+}
+.hero-content{
+    font-size: 18px;
+    color: #7bd6cf;
+}
+.btn-get-started{
+    background-color: #1c8f82;
+}
